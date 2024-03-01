@@ -1,0 +1,44 @@
+{
+  "travel": [
+    {
+      "id": "1",
+      "name": "Ice land",
+      "img": "https://icelandtrippers.com/wp-content/uploads/2020/07/godafoss-northern-lights-scaled.jpg",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate possimus pariatur voluptatum at ratione accusantium voluptas, praesentium beatae quod porro dolore corporis nam blanditiis tempore adipisci eligendi? Error, neque molestiae! test",
+      "price": "1200"
+    },
+    {
+      "id": "2",
+      "name": "Switzerlandd",
+      "price": "1234",
+      "desc": "Switzerland, officially the Swiss Confederation, is a landlocked country located at the confluence of Western and Central Europe. It is bordered by Italy to the south, France to the west, Germany to the north and Austria and Liechtenstein to the east. ",
+      "img": "https://wallpaperaccess.com/full/938058.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Indonesia 2",
+      "price": "12223",
+      "desc": "tst",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyFItYOImtWJG_1QtukjKvvF7GcPG0v7zKg&usqp=CAU"
+    },
+    {
+      "id": "4",
+      "name": "Bekasi",
+      "price": "12223",
+      "desc": "test",
+      "img": "https://rbasset.s3.ap-southeast-1.amazonaws.com/2021/04/kawasan-Summarecon-Bekasi.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "pass": "admin"
+    },
+    {
+      "id": "2",
+      "username": "test2",
+      "pass": "1234"
+    }
+  ]
+}
