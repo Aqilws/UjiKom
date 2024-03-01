@@ -2,12 +2,17 @@
 # Ujikom
 Website Travel yang dibuat menggunakan React Js, TAilwind CSS, dan Json-server, dengan sistem Crud dan login sederhana.
 
-#Image
+# Image
 ![img](https://github.com/Aqilws/UjiKom/blob/main/public/assets/1.png?raw=true)
+
 ![img](https://github.com/Aqilws/UjiKom/blob/main/public/assets/2.png?raw=true)
+
 ![img](https://github.com/Aqilws/UjiKom/blob/main/public/assets/3.png?raw=true)
+
 ![img](https://github.com/Aqilws/UjiKom/blob/main/public/assets/4.png?raw=true)
+
 ![img](https://github.com/Aqilws/UjiKom/blob/main/public/assets/5.png?raw=true)
+
 ![img](https://github.com/Aqilws/UjiKom/blob/main/public/assets/6.png?raw=true)
 
 # Getting Started with Create React App
